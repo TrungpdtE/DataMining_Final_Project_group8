@@ -1,0 +1,4 @@
+dataset cho 2 hướng làm mô hình: https://drive.google.com/drive/folders/1TeU2WFkRhMh-UrYm6TqGW-SLmj3eRo4b
+
+dataset cho phần deployment, phần này bổ sung rất nhiều data về kinh tế,các chỉ số, dữ liệu về hơn 8000 ga tàu...:
+https://drive.google.com/drive/folders/1qcQ-6MH0vy7ZiXy3E5wfB5KKax7cAxWE?usp=sharing
